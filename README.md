@@ -24,12 +24,12 @@ year = {2021}
 - NumPy
 - PyTorch
 - tensorboard
-- 
+
 
 ## GUI Dependencies
-- pyside2 (install through pip)
+- pyside2 (install through conda-forge)
 - pyqt5
--
+
 
 ## Usage
 
@@ -46,4 +46,4 @@ Put here how to:
 	- Test the model
 	- Sampling is also straight forward in first tab
 	Note: After the third step, the trained model settings become visible in the "config" tab
--
+
