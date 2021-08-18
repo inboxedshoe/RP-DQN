@@ -45,5 +45,8 @@ Put here how to:
 	- Select the validation test file
 	- Test the model
 	- Sampling is also straight forward in first tab
+	
 	Note: After the third step, the trained model settings become visible in the "config" tab
-
+	
+- Running a pretrained model through:
+	- An example is found in the Evaluate_Example file at root.
