@@ -4,7 +4,7 @@
     "beta_start": 0.4,
     "buffer_capacity": 16384,
     "buffer_min_samples": 8192,
-    "directory": "/home/tim.dernedde/BigBoiz-nohomo-/saved_models/20201227-101100",
+    "directory": "",
     "discount_factor": 1,
     "embedding_dimension": 128,
     "episodes": 250000,
